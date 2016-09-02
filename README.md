@@ -11,3 +11,6 @@
 # NLP Techniques & Tips
   - [Word2Vec: Explanation with visualisations](https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/)
   
+# Visualisation Techniques
+  - [t-SNE, dimension reduction for high-dim visualisation](https://lvdmaaten.github.io/tsne/)
+  
