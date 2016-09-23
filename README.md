@@ -15,3 +15,5 @@
 # Visualisation Techniques
   - [t-SNE, dimension reduction for high-dim visualisation](https://lvdmaaten.github.io/tsne/)
   
+# Python Tips
+  - [Decorator for time profiling](https://www.andreas-jung.com/contents/a-python-decorator-for-measuring-the-execution-time-of-methods)
