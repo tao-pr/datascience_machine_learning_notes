@@ -17,3 +17,4 @@
   
 # Python Tips
   - [Decorator for time profiling](https://www.andreas-jung.com/contents/a-python-decorator-for-measuring-the-execution-time-of-methods)
+  - [Numpy Example List](http://scipy.github.io/old-wiki/pages/Numpy_Example_List.html)
