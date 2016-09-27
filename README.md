@@ -3,6 +3,7 @@
   - [Deep NeuralNet : LSTM explanation](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
   - [Deep Learning for Computer Vision (Slides)](https://docs.google.com/presentation/d/1EukM17bSCDqmxktFS2Yksi6gLwL0XSW0z578rpG08a0/edit#slide=id.g2480feb0_1_0)
   - [Machine Learning Framework of Abhishek Thakur (Kaggle Grandmaster)](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)
+  - [CNN for 2D keypoint detection (with Lasagne)](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/#second-model-convolutions)
 
 # Hidden Markov Model / Markov Chain
   - [HMM on Python Ref](http://hmmlearn.readthedocs.io/en/stable/tutorial.html#building-hmm-and-generating-samples)
