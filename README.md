@@ -5,6 +5,9 @@
   - [Machine Learning Framework of Abhishek Thakur (Kaggle Grandmaster)](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)
   - [CNN for 2D keypoint detection (with Lasagne)](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/#second-model-convolutions)
   - [SoftMax vs Linear SVM](http://cs231n.github.io/linear-classify/#svmvssoftmax)
+  
+# Time Series
+  - [Kalman Filter: Illustration](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 
 # Hidden Markov Model / Markov Chain
   - [HMM on Python Ref](http://hmmlearn.readthedocs.io/en/stable/tutorial.html#building-hmm-and-generating-samples)
