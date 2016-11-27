@@ -18,6 +18,7 @@
   - [How to build recommendation system with distance measures](http://www.mickaellegal.com/blog/2014/1/30/how-to-build-a-recommender)
   - [Convex Optimisation, Textbook](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
   - [LBGFS](http://aria42.com/blog/2014/12/understanding-lbfgs)
+  - [Hungarian Algorithm](http://www.hungarianalgorithm.com/examplehungarianalgorithm.php)
   
 # NLP Techniques & Tips
   - [Word2Vec: Explanation with visualisations](https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/)
