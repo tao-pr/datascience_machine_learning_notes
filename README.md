@@ -26,6 +26,9 @@
 # Visualisation Techniques
   - [t-SNE, dimension reduction for high-dim visualisation](https://lvdmaaten.github.io/tsne/)
   
+# Spark & Hadoop
+  - [Create Hive table from HDFS file](https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.3.0/bk_dataintegration/content/moving_data_from_hdfs_to_hive_external_table_method.html)
+  
 # Python Tips
   - [Decorator for time profiling](https://www.andreas-jung.com/contents/a-python-decorator-for-measuring-the-execution-time-of-methods)
   - [Numpy Example List](http://scipy.github.io/old-wiki/pages/Numpy_Example_List.html)
