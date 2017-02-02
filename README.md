@@ -6,6 +6,9 @@
   - [CNN for 2D keypoint detection (with Lasagne)](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/#second-model-convolutions)
   - [SoftMax vs Linear SVM](http://cs231n.github.io/linear-classify/#svmvssoftmax)
   
+# Measures
+  - [Sequence similarity metrics](http://web.archive.org/web/20081224234350/http://www.dcs.shef.ac.uk/~sam/stringmetrics.html#cosine)
+  
 # Time Series
   - [Kalman Filter: Illustration](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 
@@ -22,6 +25,7 @@
   
 # NLP Techniques & Tips
   - [Word2Vec: Explanation with visualisations](https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/)
+  - [Smith Waterman: Sequences alignment with visualisation](http://fridolin-linder.com/2016/03/30/local-alignment.html)
   
 # Visualisation Techniques
   - [t-SNE, dimension reduction for high-dim visualisation](https://lvdmaaten.github.io/tsne/)
