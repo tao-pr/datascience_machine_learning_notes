@@ -5,6 +5,7 @@
   - [Machine Learning Framework of Abhishek Thakur (Kaggle Grandmaster)](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)
   - [CNN for 2D keypoint detection (with Lasagne)](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/#second-model-convolutions)
   - [SoftMax vs Linear SVM](http://cs231n.github.io/linear-classify/#svmvssoftmax)
+  - [Temporal-Difference Learning](https://www.tu-chemnitz.de/informatik/KI/scripts/ws0910/ml09_6.pdf)
   
 # Measures
   - [Sequence similarity metrics](http://web.archive.org/web/20081224234350/http://www.dcs.shef.ac.uk/~sam/stringmetrics.html#cosine)
