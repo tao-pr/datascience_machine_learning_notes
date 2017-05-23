@@ -23,6 +23,7 @@
   - [Convex Optimisation, Textbook](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
   - [LBGFS](http://aria42.com/blog/2014/12/understanding-lbfgs)
   - [Hungarian Algorithm](http://www.hungarianalgorithm.com/examplehungarianalgorithm.php)
+  - [Bayesian Optimisation](https://www.iro.umontreal.ca/~bengioy/cifar/NCAP2014-summerschool/slides/Ryan_adams_140814_bayesopt_ncap.pdf)
   
 # NLP Techniques & Tips
   - [Word2Vec: Explanation with visualisations](https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/)
