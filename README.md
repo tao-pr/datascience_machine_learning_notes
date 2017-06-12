@@ -6,7 +6,6 @@
   - [CNN for 2D keypoint detection (with Lasagne)](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/#second-model-convolutions)
   - [SoftMax vs Linear SVM](http://cs231n.github.io/linear-classify/#svmvssoftmax)
   - [Temporal-Difference Learning](https://www.tu-chemnitz.de/informatik/KI/scripts/ws0910/ml09_6.pdf)
-  - [Sampling / Hypotheses testing in Spark](https://databricks.com/blog/2014/08/27/statistics-functionality-in-spark.html)
   
 # Measures
   - [Sequence similarity metrics](http://web.archive.org/web/20081224234350/http://www.dcs.shef.ac.uk/~sam/stringmetrics.html#cosine)
@@ -35,6 +34,7 @@
   
 # Spark & Hadoop
   - [Create Hive table from HDFS file](https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.3.0/bk_dataintegration/content/moving_data_from_hdfs_to_hive_external_table_method.html)
+  - [Sampling / Hypotheses testing in Spark](https://databricks.com/blog/2014/08/27/statistics-functionality-in-spark.html)
   
 # Python Tips
   - [Decorator for time profiling](https://www.andreas-jung.com/contents/a-python-decorator-for-measuring-the-execution-time-of-methods)
