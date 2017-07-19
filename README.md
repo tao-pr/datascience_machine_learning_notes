@@ -9,6 +9,7 @@
   
 # Measures
   - [Sequence similarity metrics](http://web.archive.org/web/20081224234350/http://www.dcs.shef.ac.uk/~sam/stringmetrics.html#cosine)
+  - [Measurements supported in SparkML](https://spark.apache.org/docs/latest/mllib-evaluation-metrics.html#multilabel-classification)
   
 # Time Series
   - [Kalman Filter: Illustration](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
