@@ -18,6 +18,9 @@
 # Hidden Markov Model / Markov Chain
   - [HMM on Python Ref](http://hmmlearn.readthedocs.io/en/stable/tutorial.html#building-hmm-and-generating-samples)
   
+# Statistical Model
+  - [AAM, from theory to implementation](http://vixra.org/pdf/1607.0483v1.pdf)
+  
 # Optimisation / Linear Programming Techniques & Tips
   - [Gradient Descent: Best explanation ever](https://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression/)
   - [How to build highly scalable recommendation system (Facebook)](https://research.facebook.com/blog/fast-randomized-svd/)
