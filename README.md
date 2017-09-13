@@ -20,6 +20,7 @@
   
 # Statistical Model
   - [AAM, from theory to implementation](http://vixra.org/pdf/1607.0483v1.pdf)
+  - [PCA, why and how](http://www.cse.psu.edu/~rtc12/CSE586Spring2010/lectures/pcaLectureShort_6pp.pdf)
   
 # Optimisation / Linear Programming Techniques & Tips
   - [Gradient Descent: Best explanation ever](https://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression/)
