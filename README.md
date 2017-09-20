@@ -7,6 +7,8 @@
   - [SoftMax vs Linear SVM](http://cs231n.github.io/linear-classify/#svmvssoftmax)
   - [Temporal-Difference Learning](https://www.tu-chemnitz.de/informatik/KI/scripts/ws0910/ml09_6.pdf)
   - [Intro to Boosting (AdaBoost)](http://www.face-rec.org/algorithms/Boosting-Ensemble/decision-theoretic_generalization.pdf)
+  - [How DBScan works](http://nbviewer.jupyter.org/github/scikit-learn-contrib/hdbscan/blob/master/notebooks/How%20HDBSCAN%20Works.ipynb)
+  - [Visualising how DBScan splits data](http://www.irvingc.com/visualizing-dbscan)
   
 # Measures
   - [Sequence similarity metrics](http://web.archive.org/web/20081224234350/http://www.dcs.shef.ac.uk/~sam/stringmetrics.html#cosine)
