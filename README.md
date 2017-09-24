@@ -13,7 +13,6 @@
 # Measures
   - [Sequence similarity metrics](http://web.archive.org/web/20081224234350/http://www.dcs.shef.ac.uk/~sam/stringmetrics.html#cosine)
   - [Measurements supported in SparkML](https://spark.apache.org/docs/latest/mllib-evaluation-metrics.html#multilabel-classification)
-  - [Procrustest Analysis](http://www.indiana.edu/~g562/PBDB2013/Day%203A%20-%20Procrustes.pdf)
   
 # Time Series
   - [Kalman Filter: Illustration](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
@@ -24,6 +23,8 @@
 # Statistical Model
   - [AAM, from theory to implementation](http://vixra.org/pdf/1607.0483v1.pdf)
   - [PCA, why and how](http://www.cse.psu.edu/~rtc12/CSE586Spring2010/lectures/pcaLectureShort_6pp.pdf)
+  - [PCA, GPA, etc. thesis](https://brage.bibsys.no/xmlui/bitstream/handle/11250/186490/MasterThesis_OliverTomic.pdf?sequence=1)
+  - [Procrustes Analysis](http://www.indiana.edu/~g562/PBDB2013/Day%203A%20-%20Procrustes.pdf)
   
 # Optimisation / Linear Programming Techniques & Tips
   - [Gradient Descent: Best explanation ever](https://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression/)
