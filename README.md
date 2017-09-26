@@ -25,6 +25,7 @@
   - [PCA, why and how](http://www.cse.psu.edu/~rtc12/CSE586Spring2010/lectures/pcaLectureShort_6pp.pdf)
   - [PCA, GPA, etc. thesis](https://brage.bibsys.no/xmlui/bitstream/handle/11250/186490/MasterThesis_OliverTomic.pdf?sequence=1)
   - [Procrustes Analysis](http://www.indiana.edu/~g562/PBDB2013/Day%203A%20-%20Procrustes.pdf)
+  - [Statistical Shape Models](http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/403/pdf/imm403.pdf) 
   
 # Optimisation / Linear Programming Techniques & Tips
   - [Gradient Descent: Best explanation ever](https://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression/)
