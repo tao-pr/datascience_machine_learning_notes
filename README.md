@@ -9,6 +9,7 @@
   - [Intro to Boosting (AdaBoost)](http://www.face-rec.org/algorithms/Boosting-Ensemble/decision-theoretic_generalization.pdf)
   - [How DBScan works](http://nbviewer.jupyter.org/github/scikit-learn-contrib/hdbscan/blob/master/notebooks/How%20HDBSCAN%20Works.ipynb)
   - [Visualising how DBScan splits data](http://www.irvingc.com/visualizing-dbscan)
+  - [Decision Tree regression in action](http://www.saedsayad.com/decision_tree_reg.htm) 
   
 # Geometry
   - [Affine transformation on OpenCV - warping triangles](https://www.learnopencv.com/warp-one-triangle-to-another-using-opencv-c-python/)
