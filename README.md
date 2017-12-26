@@ -10,6 +10,7 @@
   - [How DBScan works](http://nbviewer.jupyter.org/github/scikit-learn-contrib/hdbscan/blob/master/notebooks/How%20HDBSCAN%20Works.ipynb)
   - [Visualising how DBScan splits data](http://www.irvingc.com/visualizing-dbscan)
   - [Decision Tree regression in action](http://www.saedsayad.com/decision_tree_reg.htm) 
+  - [Impurity functions of Decision Tree](https://github.com/rasbt/python-machine-learning-book/blob/master/faq/decision-tree-binary.md)
   
 # Geometry
   - [Affine transformation on OpenCV - warping triangles](https://www.learnopencv.com/warp-one-triangle-to-another-using-opencv-c-python/)
