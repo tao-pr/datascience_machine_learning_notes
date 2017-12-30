@@ -52,6 +52,7 @@
 # Spark & Hadoop
   - [Create Hive table from HDFS file](https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.3.0/bk_dataintegration/content/moving_data_from_hdfs_to_hive_external_table_method.html)
   - [Sampling / Hypotheses testing in Spark](https://databricks.com/blog/2014/08/27/statistics-functionality-in-spark.html)
+  - [Create custom Estimators/Transformers](https://www.slideshare.net/databricks/spark-machine-learning-adding-your-own-algorithms-and-tools-with-holden-karau-and-seth-hendrickson)
   
 # Python / Numpy / SciPy / PyPlot Tips
   - [Decorator for time profiling](https://www.andreas-jung.com/contents/a-python-decorator-for-measuring-the-execution-time-of-methods)
