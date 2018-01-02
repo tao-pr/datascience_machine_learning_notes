@@ -45,6 +45,7 @@
 # NLP Techniques & Tips
   - [Word2Vec: Explanation with visualisations](https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/)
   - [Smith Waterman: Sequences alignment with visualisation](http://fridolin-linder.com/2016/03/30/local-alignment.html)
+  - [Context-Free Grammar](https://cs.umd.edu/class/summer2015/cmsc330/parsing/)
   
 # Visualisation Techniques
   - [t-SNE, dimension reduction for high-dim visualisation](https://lvdmaaten.github.io/tsne/)
