@@ -1,4 +1,4 @@
-# General Machine Learning Techniques & Tips
+# General Machine Learning / Stats / Techniques & Tips
   - [Choosing the right estimator: Scikit's Cheatsheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
   - [Deep NeuralNet : LSTM explanation](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
   - [Deep Learning for Computer Vision (Slides)](https://docs.google.com/presentation/d/1EukM17bSCDqmxktFS2Yksi6gLwL0XSW0z578rpG08a0/edit#slide=id.g2480feb0_1_0)
@@ -11,6 +11,7 @@
   - [Visualising how DBScan splits data](http://www.irvingc.com/visualizing-dbscan)
   - [Decision Tree regression in action](http://www.saedsayad.com/decision_tree_reg.htm) 
   - [Impurity functions of Decision Tree](https://github.com/rasbt/python-machine-learning-book/blob/master/faq/decision-tree-binary.md)
+  - [Why averages suck and percentiles are great](https://www.dynatrace.com/news/blog/why-averages-suck-and-percentiles-are-great/)
   
 # Geometry
   - [Affine transformation on OpenCV - warping triangles](https://www.learnopencv.com/warp-one-triangle-to-another-using-opencv-c-python/)
